@@ -2,3 +2,8 @@
 	path = AIR-sc/golemme
 	url = git@github.com:AIR-sc/golemme.git
 	branch = master
+
+[submodule "AIR-sc/optimizer"]
+	path = AIR-sc/optimizer
+	url = git@github.com:AIR-sc/optimizer.git
+	branch = main
